@@ -1,2 +1,2 @@
-# INtro-CS-MIT
+# Intro-CS-MIT
 Intro CS in Python
